@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">customdialogbox</string>
+    <string name="She">She</string>
+    <string name="He">He</string>
+    <string name="others">Others</string>
+    <string name="enter_name">name</string>
+    <string name="enter_email">email</string>
+    <string name="enter_gender">gender</string>
+</resources>
